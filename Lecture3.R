@@ -87,4 +87,3 @@ mydatacsv$PRICE
 mydatacsv[,1]
 
 
-
