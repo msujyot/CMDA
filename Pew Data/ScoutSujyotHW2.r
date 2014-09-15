@@ -5,7 +5,7 @@
 
 
 getwd()
-setwd("C:\\Users\\Scout\\Desktop\\School\\CS 3654\\RFolder")
+setwd("C:\\Users\\Scout\\Desktop\\School\\CS 3654\\CMDA")
 
 load('phsample.RData')
 
@@ -70,6 +70,9 @@ dtest = subset(psub, ORIGRANDGROUP < 500)
 
 #Summarises the classifications of work
 summary(dtrain$COW)
+
+
+setwd("C:\\Users\\Scout\\Desktop\\School\\CS 3654\\CMDA\\Pew Data")
 
 #Pew Social Trends data for diet/gambling/movies(see manual)
 pewSocial <- read.csv(

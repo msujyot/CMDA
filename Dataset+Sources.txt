@@ -1,0 +1,58 @@
+http://www.data.gov/
+
+https://archive.ics.uci.edu/ml/datasets.html
+
+https://www.kaggle.com/
+
+http://www.quandl.com/
+
+
+medicare
+
+http://www.pewsocialtrends.org/category/datasets/pages/3/
+
+
+ask jenn about hacksburg data sets?
+
+ - avoid topics that are contentious in the political sphere
+ 
+  - keep good records of the experiments you do in early stages of analysis, categorise them and organise them well
+  
+  rpackage data
+  
+  http://www.gtfs-data-exchange.com/agency/blacksburg-transit/
+  
+  http://www.inside-r.org/howto/finding-data-internet
+  
+  http://snap.stanford.edu/data/
+  
+  http://cs.mcgill.ca/~rwest/wikispeedia/
+  
+  http://www.pewinternet.org/datasets/may-2013-online-dating-prelim/
+  
+  
+  
+  http://www.inside-r.org/howto/finding-data-internet
+  
+   
+ 
+  
+  
+  
+Hey guys,
+
+I mentioned this briefly last week, but I'd like to get a data set for our project as soon as possible. I'm going to be out of town this weekend, so I can't meet up, but I'll have internet and if you guys need me, you can text my cell (703.468.4342).
+
+For the project, the data set we need has to have:
+	- At least 7 variables
+	- Some numeric, some character
+	- At least 60 observations
+
+I found a few data sets that were interesting to me. Check them out and share any you've found. :)
+ 
+     - The million song has tons of metadata, and there seem to be a few datasets there. There's the lyrics one (http://labrosa.ee.columbia.edu/millionsong/musixmatch#faq) but the site has a couple others I believe.
+     
+      - http://www.pewsocialtrends.org/category/datasets has a few interesting ones. I like the ones on Aging, Family Bonds, Diet/Gambling/Movies but honestly, there's enough variety on here that it might be fun to play with any of them.
+      
+ See you guys in class tomorrow!
+ Scout
